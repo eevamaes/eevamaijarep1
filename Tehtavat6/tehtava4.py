@@ -1,4 +1,4 @@
-#tämä ok
+
 def luvut(kaikki):
     yhteensä=sum(kaikki)
     return yhteensä
